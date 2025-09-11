@@ -1,4 +1,4 @@
-# moviepedia
+# Moviepedia
 
 A new Flutter project.
 

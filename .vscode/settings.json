@@ -1,3 +1,12 @@
 {
-  "cSpell.words": ["Datasource", "moviepedia", "Moviepedia"]
+  "cSpell.words": [
+    "appbar",
+    "cupertino",
+    "datasource",
+    "Datasource",
+    "moviedb",
+    "moviepedia",
+    "Moviepedia",
+    "riverpod"
+  ]
 }
