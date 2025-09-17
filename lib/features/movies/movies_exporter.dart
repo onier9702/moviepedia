@@ -4,9 +4,11 @@ export './domain/datasources/movie_datasource.dart';
 export './domain/entities/movie.dart';
 export './domain/repositories/movie_repository.dart';
 // providers
+export './providers/movies_slideshow_provider.dart';
 export './providers/movies_provider.dart';
 export './providers/movies_repository_provider.dart';
 // screens
 export './screens/home_screen.dart';
 // widgets
 export './widgets/movies_slideshow.dart';
+export './widgets/movies_horizontal_listview.dart';
